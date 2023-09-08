@@ -10,7 +10,7 @@ public static void main (String[] args){
             System.out.println("Lançamento  que os clientes curtindo");
         }
         else {
-            System.out.println("Filme retrô que vale apena assistir!"); 
+            System.out.println("Filme retrô que vale apena assistir!");
         }
         if (incluidoNoPlano == true && tipoPLano.equals("plus")){
             System.out.println("Filme Liberado");
