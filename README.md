@@ -8,8 +8,6 @@ Este é um projeto que desenvolvi a partir dos meus estudos na plataforma de est
 - Java
 - IDE Itelij
 
-## Estrutura do Projeto
-
 ## Como Executar o Projeto
 
 Para executar o projeto localmente, siga as etapas abaixo:
